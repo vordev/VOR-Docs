@@ -88,6 +88,7 @@ function getGuideSidebar (groupA, groupB) {
       collapsable: false,
       children: [
         '',
+        'guide',
         'address'
       ]
     },
